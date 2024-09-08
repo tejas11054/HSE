@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "635659822947",
+    "project_id": "techathon-caf43",
+    "storage_bucket": "techathon-caf43.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:635659822947:android:557805eb3a6e5fa26a1556",
+        "android_client_info": {
+          "package_name": "com.example.hse"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBDV7-OLKmINQ5HMj5VZK_touCtf7OuIWQ"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
