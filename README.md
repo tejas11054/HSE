@@ -1,6 +1,3 @@
-# FCRIT_College_Group2 (CodeCrafters)
-
-
 
 **Detection & Alerting an Unsafe HSE Situation**
 
@@ -41,7 +38,8 @@ Output:
 
 4. SMS Output
 
-![Android-Application](https://github.com/kmi-techathon-2024/FCRIT_College_Group2/blob/main/SnapShots/SMS-Output.jpeg)
+![SMS-Output](https://github.com/user-attachments/assets/96504676-2c3d-4aba-a3af-3bcf3331e0e7)
+
 
 5. Android Application showing alerts
 
